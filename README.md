@@ -7,32 +7,32 @@ The objective of this EDA is to analyze and understand the various factors affec
 
 ✅ Key Steps Involved in the Analysis:
 1)Importing Libraries & Loading the Dataset
-Utilized libraries like pandas, numpy, matplotlib, and seaborn for data handling and visualization.
+i)Utilized libraries like pandas, numpy, matplotlib, and seaborn for data handling and visualization.
 
 2)Data Inspection
-Checked dataset structure, shape, and types.
-Identified missing values and data quality issues (if any).
+i)Checked dataset structure, shape, and types.
+ii)Identified missing values and data quality issues (if any).
 
 3)Descriptive Statistics
-Analyzed summary statistics for all numeric columns.
-Checked distributions and central tendencies (mean, median, mode).
+i)Analyzed summary statistics for all numeric columns.
+ii)Checked distributions and central tendencies (mean, median, mode).
 
 4)Data Visualization
-Used bar plots, box plots, histograms, and scatter plots.
-Explored relationships between:
- Gender and average scores
- Parental education and student performance
- Impact of test preparation on scores
- Lunch type and student performance
+i)Used bar plots, box plots, histograms, and scatter plots.
+ii)Explored relationships between:
+ a)Gender and average scores
+ b)Parental education and student performance
+ c)Impact of test preparation on scores
+ d)Lunch type and student performance
 
 5)Correlation Analysis
-Generated heatmap to visualize correlations between math, reading, and writing scores.
+i)Generated heatmap to visualize correlations between math, reading, and writing scores.
 
 6)Insights & Observations
-Girls tend to perform better in reading and writing.
-Students who completed the test preparation course scored significantly higher.
-Higher parental education levels are often associated with better performance.
-Standard lunch is linked to better student outcomes compared to free/reduced lunch.
+i)Girls tend to perform better in reading and writing.
+ii)Students who completed the test preparation course scored significantly higher.
+iii)Higher parental education levels are often associated with better performance.
+iv)Standard lunch is linked to better student outcomes compared to free/reduced lunch.
 
 📌 Conclusion:
 This EDA helped uncover valuable insights into the academic performance of students and the influence of various socio-demographic and preparatory factors. These insights can assist educators and policymakers in making data-driven decisions to enhance educational outcomes.
